@@ -1,0 +1,2 @@
+paho-mqtt==2.1.0
+# RPi.GPIO  # Only needed on Raspberry Pi hardware
